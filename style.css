@@ -1,0 +1,17 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+
+#owner {
+    background: rgb(109, 106, 106);
+}
+
+.Text {
+    background: rgb(207, 209, 208) ;
+}
+
+header p {
+    background: rgb(196, 190, 189) ;
+    text-decoration: underline;
+}
