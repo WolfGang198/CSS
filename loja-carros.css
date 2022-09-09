@@ -1,0 +1,31 @@
+
+body{
+    font-family: Arial;
+}
+
+button{
+    background: #febe01;
+    width: 6px 100px 6px 50px;
+    height: 30px;
+    padding: 6px 50px 6px 50px;
+    margin: 5px;
+    border-radius: 4px; 
+}
+
+div{
+    background: #111;
+    width: 600px;
+    height: 220px;
+    padding: 20px 110px 20px 70px;
+    margin: 50px;
+    border-radius: 4px;
+}
+
+h2{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+}
+
