@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+}
+
+#logo{
+    max-width: 100%;
+    display: block;
+    width: 200px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#img{
+    max-width: 100%;
+    display: block;
+    width: 200px;
+}
+
+button{
+    background: #febe01;
+    width: 6px 100px 6px 50px;
+    height: 30px;
+    padding: 6px 50px 6px 50px;
+    margin: 5px;
+    border-radius: 4px; 
+}
+
+div{
+    background: #111;
+    width: 600px;
+    height: 220px;
+    padding: 20px 5px 150px 70px;
+    margin: 50px;
+    border-radius: 4px;
+}
+
+h2{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+}
