@@ -25,14 +25,6 @@ button{
     border-radius: 4px; 
 }
 
-div{
-    background: #111;
-    width: 600px;
-    height: 220px;
-    padding: 20px 5px 150px 70px;
-    margin: 50px;
-    border-radius: 4px;
-}
 
 h2{
     color: #febe01;
@@ -40,4 +32,22 @@ h2{
 
 p{
     color: #b2b2b2;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    padding: 200px;
+    row-gap: 50px;
+    justify-content: center;
+    align-content: center;
+    height: auto;
+    column-gap: 50px;
+}
+
+.item{
+    background-color: #111;
+    font-size: 30px;
+    padding: 10px;
+    text-align: start;
 }
